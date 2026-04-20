@@ -1,24 +1,23 @@
-# EDA_ML_Models
+# ❤️ Heart Disease Prediction using EDA & Machine Learning Models
 
-📌 Project Overview
+## 📌 Project Overview
 
-The goal of this project is to build a reliable ML system that can predict heart disease based on medical attributes such as age, sex, blood pressure, cholesterol, heart rate, and more.
+This project focuses on predicting the likelihood of **heart disease** using **Exploratory Data Analysis (EDA)** and multiple **Machine Learning classification models**.  
+The goal is to analyze medical attributes and build predictive models that can assist in early detection of heart-related issues.
 
-The workflow includes:
+---
 
-Data loading & cleaning
+## 🎯 Objectives
 
-Exploratory Data Analysis (EDA)
+- Perform Exploratory Data Analysis (EDA) on medical dataset  
+- Identify key features affecting heart disease  
+- Train and compare multiple ML classification models  
+- Evaluate model performance using standard metrics  
+- Provide insights for healthcare decision-making  
 
-Feature Engineering
+---
 
-Model Training (multiple ML models)
 
-Model Evaluation
-
-Final Model Selection
-
-Prediction system
 
 
 
