@@ -72,7 +72,7 @@ The goal is to analyze medical attributes and build predictive models that can a
 - Hyperparameter tuning  
 - Use advanced models (XGBoost, Gradient Boosting)  
 - Deploy model using Flask or Streamlit  
-- Integrate with real-time healthcare systems  
+- Integrate with real-time healthcare systems
 
 ---
 
